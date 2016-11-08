@@ -2,6 +2,8 @@
 
   Created by David Spooner; see License.txt
 
+  Convenience methods added to NSMutableAttributedString.
+
 */
 
 #import <Cocoa/Cocoa.h>

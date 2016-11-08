@@ -2,6 +2,8 @@
 
   Created by David Spooner; see License.txt
 
+  This class manages the main application window which presents a master-detail interface where the obj-c class hierarchy appears in an outline on the left and details of the selected class appear on the right.
+
 */
 
 #import <Cocoa/Cocoa.h>

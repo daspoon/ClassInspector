@@ -2,6 +2,8 @@
 
   Created by David Spooner; see License.txt
 
+  Instances of this class represent methods (either instance or class) of an inspected obj-c class.
+
 */
 
 #import <Cocoa/Cocoa.h>
