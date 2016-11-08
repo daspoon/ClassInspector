@@ -1,0 +1,19 @@
+//
+// Prefix header for all source files of the 'ClassInspector' target in the 'ClassInspector' project
+//
+
+#ifdef __OBJC__
+
+#import <Cocoa/Cocoa.h>
+#import <objc/runtime.h>
+
+#import "Adaptor.h"
+#import "utilities.h"
+#import "NSArray-extras.h"
+#import "NSIndexPath-extras.h"
+#import "NSOutlineView-extras.h"
+#import "NSTableView-extras.h"
+#import "NSTreeNode-extras.h"
+#import "NSWindowController-extras.h"
+
+#endif

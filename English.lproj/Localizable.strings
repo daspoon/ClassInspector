@@ -1,0 +1,7 @@
+
+"BEGINSWITH" = "Begins with";
+"ENDSWITH" = "Ends with";
+"CONTAINS" = "Contains";
+
+"SEARCH FIELD" = "Search Field";
+"DISPLAY ONLY ITEMS WITH NAMES MATCHING THE SEARCH FIELD CONTENTS." = "Display only items with names matching the search field contents.";
